@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 public class UsingSoftAssert {
-	
+	//Changes done in GitHub
 	@Test
 
 	public void softAssert() {
