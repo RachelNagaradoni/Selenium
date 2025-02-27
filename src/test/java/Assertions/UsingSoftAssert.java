@@ -10,6 +10,8 @@ import org.testng.asserts.SoftAssert;
 
 public class UsingSoftAssert {
 	//Changes done in GitHub
+	
+	//Changes done in Eclipse
 	@Test
 
 	public void softAssert() {
